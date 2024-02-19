@@ -1,4 +1,4 @@
-# 📹 TikTok Generator : Generate vertical videos with Python
+# 📹 TikTok Generator : Create vertical compiliation videos
 ## 📚 Description
 A simple script that i made to generate automaticly Tiktok "compiliation of images" videos. Add titles, downloaded images and sounds, and make thousands of videos in minutes !
 
