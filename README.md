@@ -11,6 +11,7 @@ A simple script that i made to generate automaticly Tiktok "compiliation of imag
 To install and run TiktokGenerator, you will need to have :
 - [Python](https://www.python.org/downloads/)
 - [Moviepy package](https://zulko.github.io/moviepy/)
+You also may have to create empty folders used by the script in his location : "Intros", "Sounds", "Images" and "Output".
 
 ## 👤 Organization of the repo
 The main script is script_compil.py and is in Python. The file script_conseils.py is another test that i made for another format that doesn't work well, so feel free to use it or not.
@@ -20,16 +21,19 @@ The main script is script_compil.py and is in Python. The file script_conseils.p
 To use the script, simply follow these steps
 ### 1) Download bulk images in your main theme
 You can choose a specific subreddit for example, and use a tool like [Bulk Downloader For Reddit](https://github.com/aliparlakci/bulk-downloader-for-reddit). Place all the images in a folder "/Images" next to the scripts.
+
 *Note :* I suggest you to rename all your images with the same pattern and without spaces with [PowerRename](https://learn.microsoft.com/en-us/windows/powertoys/powerrename) or an equivalent.
 
 ### 2) Choose opening videos and songs
 And place it in appropriate folders (/Intros and /Sounds). 10 differents songs / titles is a good number. You can make the opening video on a simple video tool like Capcut.
 
-## 3) Start the program
+### 3) Start the program
 ```
 python -m script_compil
 ```
 You will then be prompted to select if you want to delete used images. Enter y or n and let the magic happen.
+
+### 4) Get the videos in the Output folder.
 
 ## 🖼️ Example
 Here is an example of a random generated video with the script :
