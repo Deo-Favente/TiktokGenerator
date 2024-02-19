@@ -1,4 +1,4 @@
-# 📹 TikTok Generator : Generate multiples videos with Python
+# 📹 TikTok Generator : Generate vertical videos with Python
 ## 📚 Description
 A simple script that i made to generate automaticly Tiktok "compiliation of images" videos. Add titles, downloaded images and sounds, and make thousands of videos in minutes !
 
@@ -11,6 +11,7 @@ A simple script that i made to generate automaticly Tiktok "compiliation of imag
 To install and run TiktokGenerator, you will need to have :
 - [Python](https://www.python.org/downloads/)
 - [Moviepy package](https://zulko.github.io/moviepy/)
+- [PIL package](https://he-arc.github.io/livre-python/pillow/index.html)
 
 *Note* : You also may have to create empty folders used by the script in his location : "Intros", "Sounds", "Images" and "Output".
 
