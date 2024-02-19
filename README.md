@@ -20,7 +20,7 @@ The main script is script_compil.py and is in Python. The file script_conseils.p
 To use the script, simply follow these steps
 ### 1) Download bulk images in your main theme
 You can choose a specific subreddit for example, and use a tool like [Bulk Downloader For Reddit](https://github.com/aliparlakci/bulk-downloader-for-reddit). Place all the images in a folder "/Images" next to the scripts.
-*Note :* I suggest you to rename all your images with the same pattern and without spaces with (PowerRename)[https://learn.microsoft.com/en-us/windows/powertoys/powerrename] or an equivalent.
+*Note :* I suggest you to rename all your images with the same pattern and without spaces with [PowerRename](https://learn.microsoft.com/en-us/windows/powertoys/powerrename) or an equivalent.
 
 ### 2) Choose opening videos and songs
 And place it in appropriate folders (/Intros and /Sounds). 10 differents songs / titles is a good number. You can make the opening video on a simple video tool like Capcut.
@@ -29,7 +29,7 @@ And place it in appropriate folders (/Intros and /Sounds). 10 differents songs /
 ```
 python -m script_compil
 ```
-You will then be prompted to select if you want to delete used images. Say yes or no and let the magic happen.
+You will then be prompted to select if you want to delete used images. Enter y or n and let the magic happen.
 
 ## 🖼️ Example
 Here is an example of a random generated video with the script :
