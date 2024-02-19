@@ -4,7 +4,7 @@ A simple script that i made to generate automaticly Tiktok "compiliation of imag
 
 ## 🚀 Features 
 - Generate random ready-to-upload Tiktok videos with one command.
-- Customize sounds, images in background and main title of the videos.
+- Customize sounds, images in background and opening title videos of the produced videos.
 - Option to delete the images used, so you can't have two time an image in different videos.
 
 ## 💻 Installation
@@ -19,11 +19,11 @@ The main script is script_compil.py and is in Python. The file script_conseils.p
 ## 🕹️ Usage
 To use the script, simply follow these steps
 ### 1) Download bulk images in your main theme
-You can choose a specific subreddit for example, and use a tool like [Bulk Downloader For Reddit](https://github.com/aliparlakci/bulk-downloader-for-reddit). Place all the images in a folder "Images" next to the scripts.
+You can choose a specific subreddit for example, and use a tool like [Bulk Downloader For Reddit](https://github.com/aliparlakci/bulk-downloader-for-reddit). Place all the images in a folder "/Images" next to the scripts.
 *Note :* I suggest you to rename all your images with the same pattern and without spaces with (PowerRename)[https://learn.microsoft.com/en-us/windows/powertoys/powerrename] or an equivalent.
 
-### 2) Choose titles and songs
-And place it in appropriate folders. 10 differents songs / titles is a good number.
+### 2) Choose opening videos and songs
+And place it in appropriate folders (/Intros and /Sounds). 10 differents songs / titles is a good number. You can make the opening video on a simple video tool like Capcut.
 
 ## 3) Start the program
 ```
