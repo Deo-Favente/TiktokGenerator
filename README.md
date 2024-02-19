@@ -19,7 +19,7 @@ The main script is script_compil.py and is in Python. The file script_conseils.p
 
 
 ## 🕹️ Usage
-To use the script, simply follow these steps
+To use the script, simply follow these steps :
 ### 1) Download bulk images in your main theme
 You can choose a specific subreddit for example, and use a tool like [Bulk Downloader For Reddit](https://github.com/aliparlakci/bulk-downloader-for-reddit). Place all the images in a folder "Images" next to the scripts.
 
