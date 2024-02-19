@@ -1,7 +1,7 @@
 # --------------------------------------------------------------------
 # Description: Ce script permet de générer des vidéos TikTok à partir
 # d'images et de sons aléatoires.
-# Auteur : Enzo Dubix
+# Auteur : Deo_Favente
 # --------------------------------------------------------------------
 
 # Imports
@@ -11,10 +11,10 @@ from moviepy.editor import *
 from moviepy.video.fx.all import crop
 from PIL import Image
 
-intros_folder = "C:/Users/enzod/Desktop/TiktokAuto/Intros"
-images_folder = "C:/Users/enzod/Desktop/TiktokAuto/LiminalSpace"
-music_folder = "C:/Users/enzod/Desktop/TiktokAuto/Sons"
-output_folder = "C:/Users/enzod/Desktop/TiktokAuto/Output"
+intros_folder = "/Intros"
+images_folder = "/Images"
+music_folder = "/Sounds"
+output_folder = "/Output"
 
 def recadrer_image(image_path, output_path):
     # Charger l'image
@@ -117,13 +117,6 @@ def generate_tiktok_videos(num_videos, delete_images):
             for img_path in image_paths:
                 os.remove(img_path)
                 print(f"L'image {img_path} a été supprimée.")
-
-# Script de test
-'''
-for i in range(5):
-    random_image = random.choice(os.listdir(images_folder))
-    recadrer_image(os.path.join(images_folder, random_image), f"C:/Users/enzod/Desktop/TiktokAuto/Output/test{i}.jpg")
-'''
 
 # Demander le nombre de vidéos à générer et si les images utilisées doivent être supprimées
 num_videos = int(input("Combien de vidéos voulez-vous générer ? "))
