@@ -13,7 +13,7 @@ To install and run TiktokGenerator, you will need to have :
 - [Moviepy package](https://zulko.github.io/moviepy/)
 
 ## 👤 Organization of the repo
-
+The main script is script_compil.py and is in Python. The file script_conseils.py is another test that i made for another format that doesn't work well, so feel free to use it or not.
 
 
 ## 🕹️ Usage
@@ -27,9 +27,9 @@ And place it in appropriate folders. 10 differents songs / titles is a good numb
 
 ## 3) Start the program
 ```
-python -m script
+python -m script_compil
 ```
-You will then be prompted to select if you want to delete used images.
+You will then be prompted to select if you want to delete used images. Say yes or no and let the magic happen.
 
 ## 🖼️ Example
 Here is an example of a random generated video with the script :
