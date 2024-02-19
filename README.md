@@ -35,7 +35,7 @@ python -m script_compil
 ```
 You will then be prompted to select if you want to delete used images. Enter y or n and let the magic happen.
 
-### 4) Get the videos in the Output folder.
+### 4) Get the videos in the Output folder
 
 ## 🖼️ Example
 Here is an example of a random generated video with the script :
