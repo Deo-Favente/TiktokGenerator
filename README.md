@@ -27,7 +27,7 @@ You can choose a specific subreddit for example, and use a tool like [Bulk Downl
 *Note :* I suggest you to rename all your images with the same pattern and without spaces with [PowerRename](https://learn.microsoft.com/en-us/windows/powertoys/powerrename) or equivalent.
 
 ### 2) Choose opening videos and songs
-And place it in appropriate folders ("Intros" and "Sounds" folders). 10 differents songs / titles is a good number. You can make the opening video on a simple video tool like Capcut.
+And place it in appropriate folders ("Intros" and "Sounds" folders). 10 differents songs / titles is a good number. You can make the opening videos on a simple video tool like Capcut.
 
 ### 3) Start the program
 ```
