@@ -1,21 +1,38 @@
 # 📹 TikTok Generator : Generate multiples videos with Python
+## 📚 Description
+A simple script that i made to generate automaticly Tiktok "compiliation of images" videos. Add titles, downloaded images and sounds, and make thousands of videos in minutes !
 
-1) Télécharger les images de Reddit
+## 🚀 Features 
+- Generate random ready-to-upload Tiktok videos with one command.
+- Customize sounds, images in background and main title of the videos.
+- Option to delete the images used, so you can't have two time an image in different videos.
 
-```
-cd C:\Users\enzod\Desktop\TiktokAuto
-python -m pip install bdfr --upgrade
-bdfr C:\Users\enzod\Desktop\TiktokAuto --skip txt --subreddit LeSubReddit -L 1000
-```
-Filtrer et supprimer les éventuels fichiers non images, retirer les espaces dans les noms de fichiers avec PowerRename
+## 💻 Installation
+To install and run TiktokGenerator, you will need to have :
+- [Python](https://www.python.org/downloads/)
+- [Moviepy package](https://zulko.github.io/moviepy/)
 
-2) Remplir les dossiers Intros et Sons
+## 👤 Organization of the repo
 
-3) Lancer le programme (mettre oui pour suppression des images)
+
+
+## 🕹️ Usage
+To use the script, simply follow these steps
+### 1) Download bulk images in your main theme
+You can choose a specific subreddit for example, and use a tool like [Bulk Downloader For Reddit](https://github.com/aliparlakci/bulk-downloader-for-reddit). Place all the images in a folder "Images" next to the scripts.
+*Note :* I suggest you to rename all your images with the same pattern and without spaces with (PowerRename)[https://learn.microsoft.com/en-us/windows/powertoys/powerrename] or an equivalent.
+
+### 2) Choose titles and songs
+And place it in appropriate folders. 10 differents songs / titles is a good number.
+
+## 3) Start the program
 ```
 python -m script
 ```
+You will then be prompted to select if you want to delete used images.
 
-4) Récupérer les vidéos dans output
+## 🖼️ Example
+Here is an example of a random generated video with the script :
 
-5) Les upload, en les regardant 1 fois pour vérifier qu'il n'y ai pas d'images hors sujet dedans 
+<img src=".images/demo.gif" height="500">
+
