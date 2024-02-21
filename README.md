@@ -39,6 +39,5 @@ You will then be prompted to select if you want to delete used images. Enter y o
 
 ## 🖼️ Example
 Here is an example of a random generated video with the script :
-
-<img src=".images/demo.gif" height="500">
+Compte TikTok (https://www.tiktok.com/@disturbing_spaces/video/7238770827217374491)
 
