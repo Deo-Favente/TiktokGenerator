@@ -39,5 +39,4 @@ You will then be prompted to select if you want to delete used images. Enter y o
 
 ## 🖼️ Example
 Here is an example of a random generated video with the script :
-[Compte TikTok](https://www.tiktok.com/@disturbing_spaces/video/7238770827217374491)
-
+[@disturbing_spaces](https://www.tiktok.com/@disturbing_spaces/video/7238770827217374491) 
